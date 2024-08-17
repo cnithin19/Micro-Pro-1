@@ -4,15 +4,15 @@
   
   body {
     margin-top: 0%;
-    margin-left: 4%;
-    margin-right: 4%;
+    margin-left: 2%;
+    margin-right: 2%;
     margin-bottom: 0%;
     background-color: #000;
     /* margin: 0%; */
   }
   .headerSection {
     display: flex;
-    height: 592px;
+    /* height: 592px; */
     /* width: 1440px; */
     background: #ffcd9e;
     width: 100%;
